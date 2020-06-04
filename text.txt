@@ -2,4 +2,4 @@ git Test
 
 git 是分布式版本管理
 
-git diff 版本比较 老版本，新版本
+git diff 版本比较 
